@@ -1,7 +1,7 @@
 Imgloader_build Version 1
 A tool for analyzing false fluorescent neurotransmitter puncta and their release kinetics. Developed by Jozsef Meszaros and Daniela Pereira.
 For more information, see Pereira et al, 2016.
-
+Credits to Manuel Guizar for developing subpixel FFT registration: dftregistration.m 
  
 
 Download all MATLAB files and place them in a directory of your choosing. For example, C:\Imgloader
@@ -10,4 +10,4 @@ In Matlab, type: addpath 'C:\Imgloader'
 
 Open Imgloader_build and load the sample images included by clicking on any of the included images. They will load in sequence.
 
-For additional information about inputs and outputs to the Matlab GUI, consult the 
+For additional information about inputs and outputs to the Matlab GUI, consult the Powerpoint files located in the repository.
